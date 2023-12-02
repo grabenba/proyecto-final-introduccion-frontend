@@ -1,2 +1,2 @@
 # proyecto-final-introduccion-frontend
-# Rick & Morty
+### Rick & Morty
